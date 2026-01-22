@@ -5,6 +5,18 @@
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Plataformas que não serão enviadas
+android/
+ios/
+windows/
+macos/
+linux/
+web/
+test/
+metadata/
+
+# IDEs
 .idea/
 *.iml
 *.log
